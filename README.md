@@ -1,6 +1,7 @@
 # Retro Invader
 
 A simple Space Invaders clone implemented in Python using Pygame.
+using block grafics
 
 ## Overview
 
